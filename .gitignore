@@ -50,3 +50,7 @@ user_path_config-deprecated.txt
 /package-lock.json
 /.coverage*
 /auth.json
+
+fooocus_env
+/models/checkpoints/*
+/models/loras/*
